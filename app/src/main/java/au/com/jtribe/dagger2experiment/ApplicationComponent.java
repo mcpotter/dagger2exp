@@ -8,7 +8,7 @@ import javax.inject.Singleton;
  * Created by matthewpotter on 9/12/2016.
  */
 
-@Component(modules = ApplicationModule.class)
+@Component(modules = ApplicationModule.class) 
 public abstract class ApplicationComponent {
   abstract void inject(ExperimentApplication application);
 
