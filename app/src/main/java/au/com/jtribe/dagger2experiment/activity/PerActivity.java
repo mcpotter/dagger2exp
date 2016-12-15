@@ -6,7 +6,7 @@ import java.lang.annotation.RetentionPolicy;
 import javax.inject.Scope;
 
 /**
- * Created by matthewpotter on 9/12/2016.
+ * Created by matthewotter on 9/12/2016.
  */
 @Scope
 @CanReleaseReferences
